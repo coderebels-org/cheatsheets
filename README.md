@@ -6,6 +6,7 @@ a mix of developer cheatsheets
 
 ## Databases
 
+- [Linux useful commands](linux/README.md)
 - [MySQL / MariaDB](mysql/README.md)
 
 -------
