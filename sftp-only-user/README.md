@@ -37,7 +37,7 @@ $ usermod vtest -g sftponly
 $ usermod vtest -s /bin/false
 $ usermod vtest -d /var/www/virttest
 $ cd /var/www/virttest/
-$ chown -R vtest html
+$ chown -R vtest *                   (or restrict to some files/directories)
 ```
 Finally place user's pubkey in file authorized_keys
 
