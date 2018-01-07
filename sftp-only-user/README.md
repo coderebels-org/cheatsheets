@@ -12,13 +12,13 @@ and in .ssh/authorized_keys put the PubKey of the user.
     $ vi /etc/ssh/sshd_config
 
 ```
->>>>>>>>>>>>>>>>>>>>>>>
+# >>>>>>>>>>>>>>>>>>>>>>>
 # This section must be placed at the very end of sshd_config
 Match Group sftponly
     ChrootDirectory %h
     ForceCommand internal-sftp
     AllowTcpForwarding no
-<<<<<<<<<<<<<<<<<<<<<<<
+# <<<<<<<<<<<<<<<<<<<<<<<
 ```
 
 restart ssh service
