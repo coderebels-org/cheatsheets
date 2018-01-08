@@ -10,6 +10,7 @@ a small, arbitrary mix of developer cheatsheets
 - [Encode / Decode files using OpenSSL](encryption_openssl/README.md)
 - [Let's Encrypt on nginx server](lets_encrypt/README.md)
 - [SFTP-only user restricted to home diretory](sftp-only-user/README.md)
+- [ssh with public key authentication](ssh-key-auth/README.md)
 
 ## Git
 
