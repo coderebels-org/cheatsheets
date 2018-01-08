@@ -1,5 +1,5 @@
 # cheatsheets
-a mix of developer cheatsheets
+a small, arbitrary mix of developer cheatsheets
 
 ## Databases
 
