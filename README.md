@@ -11,6 +11,7 @@ a mix of developer cheatsheets
 ## Encryption / SSH / SSL
 
 - [Encode / Decode files using OpenSSL](encryption_openssl/README.md)
+- [Let's Encrypt on nginx server](lets_encrypt/README.md)
 - [SFTP-only user restricted to home diretory](sftp-only-user/README.md)
 
 ## Linux
