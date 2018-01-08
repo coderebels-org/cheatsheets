@@ -1,9 +1,6 @@
 # cheatsheets
 a mix of developer cheatsheets
 
-!!! ATTENTION: This repo was just initialized !!!
-!!! Not much useful to find here yet !!!
-
 ## Databases
 
 - [MySQL / MariaDB](mysql/README.md)
