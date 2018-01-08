@@ -11,6 +11,8 @@ Create and add a Remote-Repository for your local Repo.
 ## Step 1: on Server (Location of Remote)
 
 ```
+SERVER:/$ mkdir -p /directory/of/remote/repo
+SERVER:/$ cd /directory/of/remote/repo
 SERVER:/directory/of/remote/repo$ git init --bare
 ```
 
@@ -20,9 +22,10 @@ SERVER:/directory/of/remote/repo$ git init --bare
 CLIENT:/directory/of/local/repo$ git remote add origin <TARGET>
 ```
 
-where TARGET can be for example:
-/path/to/directory/of/$SERVER (e.g. if Remote-Repo is locally mounted)
-ssh://user@$SERVER/path/of/remote
+where ```<TARGET>``` can be for example:
+
+- ```/path/to/directory/of/$SERVER``` (e.g. if Remote-Repo is locally mounted)
+- ```ssh://user@$SERVER/path/of/remote```
 
 ## Step 3: Push your commits
 
