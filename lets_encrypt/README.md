@@ -37,7 +37,7 @@ systemctl reload nginx
 
 ### Preconditions:
 
-- Server with Ubuntu 16.04 or newer
+- Server with Ubuntu 16.04 or newer (should work with other debian based linux as well)
 - nginx Webserver installed and running
 
 For more details see e.g. here:
