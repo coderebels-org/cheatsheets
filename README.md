@@ -11,6 +11,10 @@ a small, arbitrary mix of developer cheatsheets
 - [Let's Encrypt on nginx server](lets_encrypt/README.md)
 - [SFTP-only user restricted to home diretory](sftp-only-user/README.md)
 
+## Git
+
+- [Git create remote repository](git-create-remote-repo/README.md)
+
 ## Linux
 
 - [Linux useful commands](linux/README.md)
