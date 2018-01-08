@@ -1,6 +1,6 @@
 # Free, open DNS Server
 
-##OpenDNS-Server:
+## OpenDNS-Server:
 
 - 208.67.222.222
 - 208.67.220.220
