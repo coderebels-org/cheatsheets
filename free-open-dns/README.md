@@ -1,6 +1,10 @@
 # Free, open DNS Server
 
-## OpenDNS-Server:
+## Cloudflare/APNIC:
+
+- 1.1.1.1
+
+##OpenDNS-Server:
 
 - 208.67.222.222
 - 208.67.220.220
