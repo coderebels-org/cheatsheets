@@ -15,6 +15,7 @@ a small, arbitrary mix of developer cheatsheets
 ## Git
 
 - [Git create remote repository](git-create-remote-repo/README.md)
+- [Git sync a fork](git-sync-a-fork/README.md)
 
 ## Linux
 
